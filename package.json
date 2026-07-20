@@ -1,0 +1,23 @@
+{
+  "name": "nsfw-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "axios": "^1.16.1",
+    "cheerio": "^1.2.0",
+    "express": "^4.22.2",
+    "file-type": "^22.0.1",
+    "gif-frames": "^1.0.1",
+    "nsfwjs": "^2.4.2",
+    "p-limit": "^7.3.0",
+    "sharp": "^0.31.3"
+  }
+}
